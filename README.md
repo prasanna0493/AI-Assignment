@@ -56,7 +56,7 @@ Goal Node: E
 ## How to Run
 
 1. Ensure Python is installed on your system
-2. Copy the code into a Python file, for example `best_first_search.py`
+2. Copy the code into a Python file, for example best_first_search.py
 3. Run the script using:
 
 python best_first_search.py
